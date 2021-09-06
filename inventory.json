@@ -1,0 +1,442 @@
+{
+    "2004": {
+        "name": "Green smoothie",
+        "category": "dairy",
+        "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+        "price": 594,
+        "rating": 4,
+        "quantity": 123,
+        "discount": 13,
+        "profit": 59
+    },
+    "2005": {
+        "name": "Raw legums",
+        "category": "vegetable",
+        "description": "Raw legums on the wooden table",
+        "price": 597,
+        "rating": 2,
+        "quantity": 122,
+        "discount": 3,
+        "profit": 93
+    },
+    "2006": {
+        "name": "Baking cake",
+        "category": "dairy",
+        "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+        "price": 575,
+        "rating": 4,
+        "quantity": 152,
+        "discount": 12,
+        "profit": 97
+    },
+    "2007": {
+        "name": "Pesto with basil",
+        "category": "vegetable",
+        "description": "Italian traditional pesto with basil, chesse and oil",
+        "price": 585,
+        "rating": 2,
+        "quantity": 143,
+        "discount": 6,
+        "profit": 48
+    },
+    "2008": {
+        "name": "Hazelnut in black ceramic bowl",
+        "category": "vegetable",
+        "description": "Hazelnut in black ceramic bowl on old wooden background. forest wealth. rustic style. selective focus",
+        "price": 578,
+        "rating": 0,
+        "quantity": 190,
+        "discount": 8,
+        "profit": 33
+    },
+    "2009": {
+        "name": "Fresh stawberry",
+        "category": "fruit",
+        "description": "Sweet fresh stawberry on the wooden table",
+        "price": 538,
+        "rating": 4,
+        "quantity": 139,
+        "discount": 2,
+        "profit": 62
+    },
+    "2010": {
+        "name": "Lemon and salt",
+        "category": "fruit",
+        "description": "Rosemary, lemon and salt on the table",
+        "price": 500,
+        "rating": 5,
+        "quantity": 146,
+        "discount": 4,
+        "profit": 31
+    },
+    "2011": {
+        "name": "Homemade bread",
+        "category": "bakery",
+        "description": "Homemade bread",
+        "price": 548,
+        "rating": 3,
+        "quantity": 98,
+        "discount": 6,
+        "profit": 22
+    },
+    "2012": {
+        "name": "Legums",
+        "category": "vegetable",
+        "description": "Cooked legums on the wooden table",
+        "price": 511,
+        "rating": 0,
+        "quantity": 18,
+        "discount": 14,
+        "profit": 47
+    },
+    "2013": {
+        "name": "Fresh tomato",
+        "category": "vegetable",
+        "description": "Fresh tomato juice with basil",
+        "price": 575,
+        "rating": 2,
+        "quantity": 121,
+        "discount": 3,
+        "profit": 82
+    },
+    "2014": {
+        "name": "Healthy breakfast",
+        "category": "fruit",
+        "description": "Healthy breakfast set. rice cereal or porridge with berries and honey over rustic wood background",
+        "price": 595,
+        "rating": 2,
+        "quantity": 145,
+        "discount": 3,
+        "profit": 81
+    },
+    "2015": {
+        "name": "Green beans",
+        "category": "vegetable",
+        "description": "Raw organic green beans ready to eat",
+        "price": 581,
+        "rating": 1,
+        "quantity": 25,
+        "discount": 10,
+        "profit": 51
+    },
+    "2016": {
+        "name": "Baked stuffed portabello mushrooms",
+        "category": "bakery",
+        "description": "Homemade baked stuffed portabello mushrooms with spinach and cheese",
+        "price": 588,
+        "rating": 1,
+        "quantity": 90,
+        "discount": 7,
+        "profit": 60
+    },
+    "2017": {
+        "name": "Strawberry jelly",
+        "category": "fruit",
+        "description": "Homemade organic strawberry jelly in a jar",
+        "price": 547,
+        "rating": 1,
+        "quantity": 37,
+        "discount": 7,
+        "profit": 86
+    },
+    "2018": {
+        "name": "Pears juice",
+        "category": "fruit",
+        "description": "Fresh pears juice on the wooden table",
+        "price": 500,
+        "rating": 4,
+        "quantity": 159,
+        "discount": 11,
+        "profit": 68
+    },
+    "2019": {
+        "name": "Fresh pears",
+        "category": "fruit",
+        "description": "Sweet fresh pears on the wooden table",
+        "price": 556,
+        "rating": 5,
+        "quantity": 132,
+        "discount": 9,
+        "profit": 49
+    },
+    "2020": {
+        "name": "Caprese salad",
+        "category": "vegetable",
+        "description": "Homemade healthy caprese salad with tomato mozzarella and basil",
+        "price": 536,
+        "rating": 5,
+        "quantity": 171,
+        "discount": 15,
+        "profit": 43
+    },
+    "2021": {
+        "name": "Oranges",
+        "category": "fruit",
+        "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
+        "price": 599,
+        "rating": 4,
+        "quantity": 59,
+        "discount": 6,
+        "profit": 83
+    },
+    "2022": {
+        "name": "Vegan food",
+        "category": "vegetable",
+        "description": "Concept of vegan food",
+        "price": 539,
+        "rating": 4,
+        "quantity": 143,
+        "discount": 15,
+        "profit": 24
+    },
+    "2023": {
+        "name": "Breakfast with muesli",
+        "category": "dairy",
+        "description": "Concept of healthy breakfast with muesli",
+        "price": 557,
+        "rating": 2,
+        "quantity": 80,
+        "discount": 9,
+        "profit": 33
+    },
+    "2024": {
+        "name": "Honey",
+        "category": "bakery",
+        "description": "Honey and honeycell on the table",
+        "price": 598,
+        "rating": 2,
+        "quantity": 75,
+        "discount": 3,
+        "profit": 68
+    },
+    "2025": {
+        "name": "Breakfast with cottage",
+        "category": "fruit",
+        "description": "Healthy breakfast with cottage cheese and strawberry",
+        "price": 565,
+        "rating": 1,
+        "quantity": 74,
+        "discount": 10,
+        "profit": 57
+    },
+    "2026": {
+        "name": "Strawberry smoothie",
+        "category": "fruit",
+        "description": "Glass of red strawberry smoothie with chia seeds, served with retro cocktail tube, fresh mint and strawberries over dark background",
+        "price": 542,
+        "rating": 2,
+        "quantity": 99,
+        "discount": 15,
+        "profit": 36
+    },
+    "2027": {
+        "name": "Strawberry and mint",
+        "category": "fruit",
+        "description": "Homemade muesli with strawberry and mint",
+        "price": 520,
+        "rating": 4,
+        "quantity": 120,
+        "discount": 9,
+        "profit": 48
+    },
+    "2028": {
+        "name": "Ricotta",
+        "category": "dairy",
+        "description": "Ricotta with berry and mint",
+        "price": 550,
+        "rating": 5,
+        "quantity": 195,
+        "discount": 13,
+        "profit": 37
+    },
+    "2029": {
+        "name": "Cuban sandwiche",
+        "category": "bakery",
+        "description": "Homemade traditional cuban sandwiches with ham pork and cheese",
+        "price": 508,
+        "rating": 4,
+        "quantity": 117,
+        "discount": 6,
+        "profit": 25
+    },
+    "2030": {
+        "name": "Granola",
+        "category": "dairy",
+        "description": "Glass jar with homemade granola and yogurt with nuts, raspberries and blackberries on wooden cutting board over white textile in day light",
+        "price": 543,
+        "rating": 3,
+        "quantity": 22,
+        "discount": 6,
+        "profit": 44
+    },
+    "2031": {
+        "name": "Smoothie with chia seeds",
+        "category": "fruit",
+        "description": "Glass of red strawberry smoothie with chia seeds, served with retro cocktail tube, fresh mint and strawberries over wooden table",
+        "price": 526,
+        "rating": 5,
+        "quantity": 57,
+        "discount": 3,
+        "profit": 81
+    },
+    "2032": {
+        "name": "Yogurt",
+        "category": "dairy",
+        "description": "Homemade yogurt with raspberry and mint",
+        "price": 521,
+        "rating": 4,
+        "quantity": 110,
+        "discount": 13,
+        "profit": 53
+    },
+    "2033": {
+        "name": "Sandwich with salad",
+        "category": "vegetable",
+        "description": "Vegan sandwich with salad, tomato and radish",
+        "price": 525,
+        "rating": 5,
+        "quantity": 93,
+        "discount": 11,
+        "profit": 52
+    },
+    "2034": {
+        "name": "Cherry",
+        "category": "fruit",
+        "description": "Cherry with sugar on old table",
+        "price": 559,
+        "rating": 5,
+        "quantity": 177,
+        "discount": 5,
+        "profit": 23
+    },
+    "2035": {
+        "name": "Raw asparagus",
+        "category": "vegetable",
+        "description": "Raw fresh asparagus salad with cheese and dressing",
+        "price": 555,
+        "rating": 4,
+        "quantity": 116,
+        "discount": 13,
+        "profit": 60
+    },
+    "2036": {
+        "name": "Corn",
+        "category": "vegetable",
+        "description": "Grilled corn on the cob with salt and butter",
+        "price": 542,
+        "rating": 2,
+        "quantity": 87,
+        "discount": 15,
+        "profit": 41
+    },
+    "2037": {
+        "name": "Vegan",
+        "category": "vegan",
+        "description": "Concept of healthy vegan eating",
+        "price": 518,
+        "rating": 5,
+        "quantity": 15,
+        "discount": 13,
+        "profit": 80
+    },
+    "2038": {
+        "name": "Fresh blueberries",
+        "category": "fruit",
+        "description": "Healthy breakfast. berry crumble with fresh blueberries, raspberries, strawberries, almond, walnuts, pecans, yogurt, and mint in ceramic plates over white wooden surface, top view",
+        "price": 592,
+        "rating": 4,
+        "quantity": 69,
+        "discount": 5,
+        "profit": 55
+    },
+    "2039": {
+        "name": "Smashed avocado",
+        "category": "fruit",
+        "description": "Vegan sandwiches with smashed avocado, tomatoes and radish. top view",
+        "price": 525,
+        "rating": 0,
+        "quantity": 156,
+        "discount": 2,
+        "profit": 31
+    },
+    "2040": {
+        "name": "Italian ciabatta",
+        "category": "bakery",
+        "description": "Italian ciabatta bread cut in slices on wooden chopping board with herbs, garlic and olives over dark grunge backdrop, top view",
+        "price": 597,
+        "rating": 1,
+        "quantity": 121,
+        "discount": 6,
+        "profit": 22
+    },
+    "2041": {
+        "name": "Rustic breakfast",
+        "category": "dairy",
+        "description": "Rustic healthy breakfast set. cooked buckwheat groats with milk and honey on dark grunge backdrop. top view, copy space",
+        "price": 543,
+        "rating": 0,
+        "quantity": 132,
+        "discount": 12,
+        "profit": 25
+    },
+    "2042": {
+        "name": "Sliced lemons",
+        "category": "fruit",
+        "description": "Heap of whole and sliced lemons and limes with mint in vintage metal grid box over old wooden table with turquoise wooden background. dark rustic style.",
+        "price": 595,
+        "rating": 2,
+        "quantity": 105,
+        "discount": 1,
+        "profit": 79
+    },
+    "2043": {
+        "name": "Plums",
+        "category": "fruit",
+        "description": "Yellow and red sweet plums",
+        "price": 572,
+        "rating": 1,
+        "quantity": 170,
+        "discount": 7,
+        "profit": 98
+    },
+    "2044": {
+        "name": "French fries",
+        "category": "bakery",
+        "description": "Homemade oven baked french fries with ketchup",
+        "price": 501,
+        "rating": 3,
+        "quantity": 165,
+        "discount": 15,
+        "profit": 54
+    },
+    "2045": {
+        "name": "Strawberries",
+        "category": "fruit",
+        "description": "Healthy breakfast set. rice cereal or porridge with fresh strawberry, apricots, almond and honey over white rustic wood backdrop, top view, \u0000",
+        "price": 538,
+        "rating": 3,
+        "quantity": 42,
+        "discount": 11,
+        "profit": 29
+    },
+    "2046": {
+        "name": "Ground beef meat burger",
+        "category": "meat",
+        "description": "Raw ground beef meat burger steak cutlets with seasoning on vintage wooden boards, black background",
+        "price": 551,
+        "rating": 5,
+        "quantity": 32,
+        "discount": 10,
+        "profit": 28
+    },
+    "2047": {
+        "name": "Tomatoes",
+        "category": "fruit",
+        "description": "Organic tomatoes made with love",
+        "price": 535,
+        "rating": 4,
+        "quantity": 23,
+        "discount": 15,
+        "profit": 95
+    }
+}

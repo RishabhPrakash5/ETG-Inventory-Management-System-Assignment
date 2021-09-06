@@ -1,0 +1,16 @@
+{
+    "150714": {
+        "Customer": "shu",
+        "Purchased Item": "Pesto with basil",
+        "Quantity": 2,
+        "Total Amount Paid after discount": 292.5,
+        "Profit Earned": 96
+    },
+    "150715": {
+        "Customer": "sonu",
+        "Purchased Item": "Lemon and salt",
+        "Quantity": 10,
+        "Total Amount Paid after discount": 4800.0,
+        "Profit Earned": 310
+    }
+}
